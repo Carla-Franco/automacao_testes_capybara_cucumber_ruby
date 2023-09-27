@@ -1,0 +1,10 @@
+---
+
+default: --publish-quiet
+         -p pretty -p homolog -p chrome -p html
+
+pretty: --format pretty
+homolog: AMBIENTE=homolog
+prod: AMBIENTE=prod
+chrome: BROWSER=chrome
+html: --format html --out=reports/relatorio.html
