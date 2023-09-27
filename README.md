@@ -10,3 +10,4 @@
 * Seção 6: Instalando o Docker e Subindo o Projeto na Máquina Local;
 * Seção 7: Capybara com Cucumber;
 * Seção 8: Page Objects com SitePrism;
+* Seção 9: Rodando em Vários Ambientes;
