@@ -1,7 +1,5 @@
 # Curso de Automação de Testes utilizando Capybara, Cucumber e Ruby
 
-## Seções já concluídas:
-
 * Seção 1: Introdução;
 * Seção 2: Configurando o Ambiente;
 * Seção 3: Ruby Básico;
@@ -12,3 +10,5 @@
 * Seção 8: Page Objects com SitePrism;
 * Seção 9: Rodando em Vários Ambientes;
 * Seção 10: Relatórios;
+* Seção 11: Projeto Final;
+* Seção 12: Encerramento.
